@@ -20,7 +20,7 @@
         <nav class="navbar navbar-light bg-light static-top">
             <div class="container">
                 <a class="navbar-brand" href="forms.php">Arquivos secretos</a>
-                <a class="btn btn-primary" href="forms.php">Sign Up</a>
+                <a class="btn btn-primary" href="forms.php">Entre</a>
             </div>
         </nav>
         <!-- Masthead-->
@@ -30,7 +30,7 @@
                     <div class="col-xl-6">
                         <div class="text-center text-white">
                             <!-- Page heading-->
-                            <h1 class="mb-5">Generate more leads with a professional landing page!</h1>
+                            <h1 class="mb-5">S¥§†€₥_₵ØⱤɆ://₳₵₵Ɇ₴₴_ĐɆ₦ɪɆĐ_0x9F3A</h1>
                             <!-- Signup form-->
                             <!-- * * * * * * * * * * * * * * *-->
                             <!-- * * SB Forms Contact Form * *-->
@@ -39,37 +39,6 @@
                             <!-- To make this form functional, sign up at-->
                             <!-- https://startbootstrap.com/solution/contact-forms-->
                             <!-- to get an API token!-->
-                            <form class="form-subscribe" id="contactForm" data-sb-form-api-token="API_TOKEN">
-                                <!-- Email address input-->
-                                <div class="row">
-                                    <div class="col">
-                                        <input class="form-control form-control-lg" id="emailAddress" type="email" placeholder="Email Address" data-sb-validations="required,email" />
-                                        <div class="invalid-feedback text-white" data-sb-feedback="emailAddress:required"></div>
-                                        <div class="invalid-feedback text-white" data-sb-feedback="emailAddress:email">
-
-                                        </div>
-                                    </div>
-                                    <div class="col-auto">
-                                        <button class="btn btn-primary btn-lg" id="submitButton" type="submit" onclick="window.location.href='forms.php';">Submit</button>
-                                    </div>
-                                    
-                                <!-- Submit success message-->
-                                <!---->
-                                <!-- This is what your users will see when the form-->
-                                <!-- has successfully submitted-->
-                                <div class="d-none" id="submitSuccessMessage">
-                                    <div class="text-center mb-3">
-                                        <div class="fw-bolder">Form submission successful!</div>
-                                        <p>To activate this form, sign up at</p>
-                                        <a class="text-white" href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
-                                    </div>
-                                </div>
-                                <!-- Submit error message-->
-                                <!---->
-                                <!-- This is what your users will see when there is-->
-                                <!-- an error submitting the form-->
-                                <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
-                            </form>
                         </div>
                     </div>
                 </div>
@@ -82,22 +51,22 @@
                 <div class="row g-0">
                     <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('assets/img/anonymous-binary-3840x2160-15647.png')"></div>
                     <div class="col-lg-6 order-lg-1 my-auto showcase-text">
-                        <h2>Fully Responsive Design</h2>
-                        <p class="lead mb-0">When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!</p>
+                        <h2>Introdução</h2>
+                        <p class="lead mb-0">Bem-vindo ao sistema. Você acaba de acessar uma interface restrita, onde informações classificadas são armazenadas longe do alcance público. Cada arquivo aqui contém dados sensíveis, registros ocultos e conteúdos que não deveriam ser encontrados facilmente. Navegue com cautela — nem tudo foi feito para ser visto.</p>
                     </div>
                 </div>
                 <div class="row g-0">
                     <div class="col-lg-6 text-white showcase-img" style="background-image: url('assets/img/hh.png')"></div>
                     <div class="col-lg-6 my-auto showcase-text">
-                        <h2>Updated For Bootstrap 5</h2>
-                        <p class="lead mb-0">Newly improved, and full of great utility classes, Bootstrap 5 is leading the way in mobile responsive web development! All of the themes on Start Bootstrap are now using Bootstrap 5!</p>
+                        <h2>Arquivos</h2>
+                        <p class="lead mb-0">Os arquivos secretos disponíveis neste ambiente reúnem relatórios confidenciais, registros antigos e documentos que foram removidos de sistemas convencionais. Alguns deles podem parecer comuns à primeira vista, mas escondem detalhes importantes que só podem ser compreendidos por quem sabe exatamente o que procurar. Quanto mais fundo você for, mais difícil será voltar atrás.</p>
                     </div>
                 </div>
                 <div class="row g-0">
-                    <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('assets/img/bg-showcase-3.jpg')"></div>
+                    <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('assets/img/hackiadu.jpg')"></div>
                     <div class="col-lg-6 order-lg-1 my-auto showcase-text">
-                        <h2>Easy to Use & Customize</h2>
-                        <p class="lead mb-0">Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!</p>
+                        <h2>Site</h2>
+                        <p class="lead mb-0">Este não é apenas um site comum. Cada clique pode revelar algo inesperado. Alguns arquivos podem estar corrompidos, outros protegidos, e há aqueles que simplesmente não deveriam existir. Se você decidiu continuar, esteja preparado para encontrar informações que podem mudar sua percepção sobre tudo.</p>
                     </div>
                 </div>
             </div>
