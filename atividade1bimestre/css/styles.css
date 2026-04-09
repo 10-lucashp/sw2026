@@ -1,4 +1,85 @@
-@charset "UTF-8";
+:root {
+  --bs-primary: #00ff00 !important; /* Verde Hacker */
+  --bs-light: #000000 !important;   /* Fundo Preto */
+  --bs-body-bg: #000000 !important;
+  --bs-body-color: #00ff00 !important;
+}
+
+body {
+  background-color: #000000 !important;
+  color: #00ff00 !important;
+}
+
+.navbar.navbar-light.bg-light {
+  background-color: #000000 !important; /* Fundo Preto */
+  border-bottom: 1px solid #00ff00;      /* Linha verde sutil embaixo */
+}
+
+.navbar-brand {
+  color: #00ff00 !important;            /* Texto "Arquivos Secretos" em verde */
+  font-family: 'Courier New', Courier, monospace; /* Fonte estilo terminal */
+  font-weight: bold;
+}
+
+
+.navbar .btn-primary {
+  background-color: #000000 !important;
+  border: 1px solid #00ff00 !important;
+  color: #00ff00 !important;
+}
+
+.navbar .btn-primary:hover {
+  background-color: #00ff00 !important;
+  color: #000000 !important;
+}
+
+
+.masthead h1 {
+  color: #00ff00 !important;            /* Texto do banner em verde */
+  text-shadow: 0 0 10px rgba(0, 255, 0, 0.7); /* Efeito de brilho (glow) */
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+.form-control {
+  background-color: #000000 !important;
+  border: 1px solid #00ff00 !important;
+  color: #00ff00 !important;
+}
+
+.form-control::placeholder {
+  color: rgba(0, 255, 0, 0.5) !important;
+}
+
+/* BOTÃO SUBMIT */
+#submitButton {
+  background-color: #000000 !important;
+  border: 1px solid #00ff00 !important;
+  color: #00ff00 !important;
+}
+
+#submitButton:hover {
+  background-color: #00ff00 !important;
+  color: #000000 !important;
+}
+
+/* TÍTULOS DAS SEÇÕES DE BAIXO */
+h2, .h2, p.lead {
+  color: #00ff00 !important;
+}
+
+/* LINKS */
+a {
+  color: #00ff00 !important;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #00cc00 !important;
+}
+
+
 /*!
 * Start Bootstrap - Landing Page v6.0.6 (https://startbootstrap.com/theme/landing-page)
 * Copyright 2013-2023 Start Bootstrap
@@ -3725,12 +3806,12 @@ textarea.form-control-lg {
   display: block;
 }
 
-.navbar {
+.navbar { background-color: #000 !important;
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
   --bs-navbar-color: rgba(0, 0, 0, 0.55);
   --bs-navbar-hover-color: rgba(0, 0, 0, 0.7);
-  --bs-navbar-disabled-color: rgba(0, 0, 0, 0.3);
+  --bs-navbar-disabled-color: black;
   --bs-navbar-active-color: rgba(0, 0, 0, 0.9);
   --bs-navbar-brand-padding-y: 0.3125rem;
   --bs-navbar-brand-margin-end: 1rem;
@@ -3765,7 +3846,7 @@ textarea.form-control-lg {
   align-items: center;
   justify-content: space-between;
 }
-.navbar-brand {
+.navbar-brand { color: #00ff00 !important;
   padding-top: var(--bs-navbar-brand-padding-y);
   padding-bottom: var(--bs-navbar-brand-padding-y);
   margin-right: var(--bs-navbar-brand-margin-end);
@@ -10856,7 +10937,7 @@ header.masthead:before {
   left: 0;
   opacity: 0.5;
 }
-header.masthead h1, header.masthead .h1 {
+header.masthead h1, header.masthead .h1 { color: #00ff00 !important;
   font-size: 2rem;
 }
 @media (min-width: 768px) {
@@ -10864,7 +10945,7 @@ header.masthead h1, header.masthead .h1 {
     padding-top: 12rem;
     padding-bottom: 12rem;
   }
-  header.masthead h1, header.masthead .h1 {
+  header.masthead h1, header.masthead .h1 { color: #00ff00 !important;
     font-size: 3rem;
   }
 }
